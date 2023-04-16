@@ -1,0 +1,17 @@
+h3{
+    color: blanchedalmond;
+}
+p{
+    color: yellow;
+}
+h1{
+    background-color: coral;
+}
+
+  
+  .background{
+   background-image: url(Screenshot\ 2023-04-15\ 091757.jpg);
+   background-repeat: no-repeat;
+   background-size: 400px;
+   height: 1000px;width: 1000px;
+  }
